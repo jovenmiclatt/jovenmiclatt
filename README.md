@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>I'm an aspiring freelance web developer with a passion for designing and building modern, responsive websites. I love turning ideas into interactive and visually engaging web experiences. Currently, I'm focused on improving my craft and creating websites that inspire trust and confidence in clients.<br><br>
+👋 Hi there!<br>I am a freelance full-stack web developer specializing in creating modern, responsive websites. My focus is on turning ideas into interactive, visually appealing web experiences. I use the best tools and practices to deliver reliable, high quality solutions. My goal is to build websites that inspire trust and exceed client expectations.<br><br>
 
 
 ## 🌐 Socials:
