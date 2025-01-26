@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>I am a freelance full-stack web developer specializing in creating modern, responsive websites. My focus is on turning ideas into interactive, visually appealing web experiences. I use the best tools and practices to deliver reliable, high-quality solutions. My goal is to build websites that inspire trust and exceed client expectations.<br><br>
+👋 Hi there!<br>I am a freelance full-stack web developer specializing in creating modern, responsive websites. My focus is on turning ideas into interactive, visually appealing web experiences. I use the best tools to deliver reliable, high-quality solutions. My goal is to build websites that inspire trust and exceed client expectations.<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569932221711) 
